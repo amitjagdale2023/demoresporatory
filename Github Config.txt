@@ -1,0 +1,19 @@
+GITHUB CONFIGRATION
+
+1]Install the Git Bash client.
+Go to the Git bash website and download the installation package for 32-bit or 64-bit Windows.
+Double-click the installation package. In the installation window displayed, click Next for several times and then click Install.
+2]Open the Git Bash client.
+Click the Windows start icon, enter Git Bash in the search box, and press Enter to open Git Bash. You are advised to pin Git Bash to the Windows taskbar.
+
+3]Configure the Git Bash client.
+Enter the following commands in Git Bash to configure your username and email address:
+   $ git config --global user.name "<your_username>"
+   $ git config --global user.email "<your_email_address>"
+
+4]Run the following command to view the configurations.
+
+  $ git config -l
+
+
+other IMPORTANT COMMAND:

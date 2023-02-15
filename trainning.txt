@@ -1,0 +1,18 @@
+Sikka.ai
+   Industeies: dental,veterinary,physician , optometry , chiropractic
+   Other business:insurance ,revenue Cycle Management,Markets
+
+PMS:-practice management system (basic software)
+     dr stores data in this basic software.it collect data about patient.
+     Product-sikka platform utility (spu desktop application)this software install in client(dr) pc
+     it store data in save our aws cloud server.
+      Pms=>data discovery team{ETL}=>spu=>server/cloud=>my sql(create account per person)=>using our software(sikka prime ,in apis,optimizer)=>
+
+Master ID:12345678
+cust id:1
+practice:1,2,3
+Databases of sikka software:
+   databases access the data from sikka aws cloud and store in my sql server.
+    other sikka software uses cloud data.
+    *****SQL store subscription ,validation,licene data etc********
+    ******my sQL store patient data,practices data etc*********
